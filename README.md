@@ -71,7 +71,7 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 ## 📫 Let’s Connect
 
 - **Email:** charlie.munro@dcu.ie  
-- **LinkedIn:** https://linkedin.com/in/charliemunro  ](https://www.linkedin.com/in/charlie-munro-45b4aa2a9/
+- **LinkedIn:** https://www.linkedin.com/in/charlie-munro-45b4aa2a9/
 - **GitHub:** https://github.com/charliemunro  
 
 
