@@ -6,7 +6,7 @@ Dublin City University
 
 ---
 
-## 🎯 Career Objectives
+## Career Objectives
 
 I’m a recent DCU graduate combining rigorous physics foundations with advanced data‑science and machine‑learning expertise. I design and deliver end‑to‑end solutions—from data ingestion and preprocessing through predictive modelling to interactive dashboards and deployment.
 
@@ -18,7 +18,7 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 
 ---
 
-## 🔧 Tech & Tools
+## Tech & Tools
 
 | Category              | Tools & Libraries                                     |
 |-----------------------|-------------------------------------------------------|
@@ -32,7 +32,7 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
 ### Emergence of Collective Behaviour  
 **Python • Computational Physics**  
@@ -60,7 +60,7 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 
 ---
 
-## 🚀 Continuous Learning & Interests
+## Continuous Learning & Interests
 
 - **Cloud Data Engineering**: AWS S3, Lambda, Azure Data Factory  
 - **Advanced ML**: Deep learning, NLP pipelines, model interpretability  
@@ -68,7 +68,7 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - **Email:** charlie.munro@dcu.ie  
 - **LinkedIn:** https://www.linkedin.com/in/charlie-munro-45b4aa2a9/
