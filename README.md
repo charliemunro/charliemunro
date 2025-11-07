@@ -59,14 +59,6 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 
 ---
 
-## Continuous Learning & Interests
-
-- **Cloud Data Engineering**: AWS S3, Lambda, Azure Data Factory  
-- **Advanced ML**: Deep learning, NLP pipelines, model interpretability  
-- **Software Engineering**: CI/CD, containerization, automated testing  
-
----
-
 ## Let’s Connect
 
 - **Email:** charlie.munro@dcu.ie  
