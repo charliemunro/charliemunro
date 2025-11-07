@@ -2,7 +2,7 @@
 
 **BSc Physics with Data Analytics (2.1 Hons)**  
 Dublin City University  
-📧 charlie.munro@dcu.ie | 🔗 [LinkedIn](https://www.linkedin.com/in/charlie-munro-45b4aa2a9/)
+📧 charliemunro789@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/charlie-munro-45b4aa2a9/)
 
 ---
 
