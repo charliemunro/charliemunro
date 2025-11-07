@@ -27,7 +27,6 @@ I’m a recent DCU graduate combining rigorous physics foundations with advanced
 | **Machine Learning**  | TensorFlow, PyTorch, XGBoost                          |
 | **Visualization**     | Matplotlib, Seaborn, Plotly, IPyLeaflet               |
 | **Geospatial**        | GeoPandas, Folium                                     |
-| **Cloud & DevOps**    | Git, GitHub Actions, Docker, AWS (S3, Lambda basics) |
 | **Other**             | Jupyter Notebook, Markdown, Agile/Scrum workflows     |
 
 ---
